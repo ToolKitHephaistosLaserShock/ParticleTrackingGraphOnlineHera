@@ -12,3 +12,5 @@
 - -> Frame advance
 - <- Frame back
 - Range : scale on image in um
+  
+**Videotest.zip is a .avi video from Shimatzu High speed camera.**
